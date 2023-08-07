@@ -1,19 +1,19 @@
 ### Hi there 👋<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AviralJuyal&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KashishJiandani&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 
 
 - 🔭 I’m currently working on MERN stack.
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on in Reactjs Projects and OpenSource Projects
-- 📫 How to reach me: aviraljuyal@gmail.com.
-- 😄 Pronouns: he/him.
+- 📫 How to reach me: kashishjiandani@gmail.com.
+- 😄 Pronouns: she/her.
 
 <br><br>
 - ## 📊 My Github Stats<hr>
  
-<img src="https://github-readme-stats.vercel.app/api?username=AviralJuyal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000"/>
-<a href="https://github.com/AviralJuyal/github-readme-stats"><img alt="Aviral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviralJuyal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=KashishJiandani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000"/>
+<a href="https://github.com/KashishJiandani/github-readme-stats"><img alt="Kashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishJiandani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -38,8 +38,8 @@
 ## Connect with me:
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/aviral-juyal-7a4769145" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/aviraljuyal/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/kashish-jiandani-13b881219/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 
 </p>

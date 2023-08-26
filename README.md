@@ -25,7 +25,7 @@
 
 
 - 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning Data Structures and Algorithms and MERN stack.
 - 👯 I’m looking to collaborate on in React.Js Projects and Open Source Projects
 - 📫 How to reach me: kashishjiandani@gmail.com.
 - 😄 Pronouns: she/her.
